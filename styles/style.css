@@ -76,7 +76,6 @@
 
 .header__theme-menu-button {
   min-height: 26px;
-  border: none;
   border: 1px solid transparent;
   padding: 0 13px;
   color: var(--accent-color);
