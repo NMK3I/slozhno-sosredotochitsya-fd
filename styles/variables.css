@@ -9,4 +9,10 @@
   --padding: clamp(10px, calc(0.458px + 2.545vw), 20px);
   --margin: 20px;
   --button-hover: #ff007066;
+  --color-button: var(--accent-color);
+  --color-line: var(--accent-color);
+  --cursor: url(../images/black-purple-pointer-dark.png), pointer;
+  --content-color-text: var(--bg-color);
+  --color-shadow: #ff0070;
+  --display: block;
 }

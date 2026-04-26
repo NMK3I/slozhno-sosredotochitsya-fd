@@ -5,4 +5,10 @@
   --accent-color: #ff0070;
   --title-color: #db00ff;
   --button-hover: #ff007066;
+  --color-button: var(--accent-color);
+  --color-line: var(--accent-color);
+  --cursor: url(../images/black-purple-pointer-dark.png), pointer;
+  --content-color-text: var(--bg-color);
+  --color-shadow: #ff0070;
+  --display: block;
 }
